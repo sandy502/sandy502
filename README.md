@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sandy502/sandy502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my portfolio website.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Java Programming language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on projects related to web development, java, reactjs etc.
+
+🤔 I’m looking for help with Advanced Java Concepts.
+
+💬 Ask me about Frontend designing, Object Oriented concepts, Wordpress.
+
+📫 How to reach me: sandalysingh538@gmail.com  
+
