@@ -2,13 +2,11 @@
 
 🔭 I’m currently working on my portfolio website.
 
-🌱 I’m currently learning Java Programming language.
+🌱 I’m currently learning Python Programming language and data structures.
 
-👯 I’m looking to collaborate on projects related to web development, java, reactjs etc.
+👯 I’m looking to collaborate on projects related to python development, web development, java, reactjs etc.
 
-🤔 I’m looking for help with Advanced Java Concepts.
-
-💬 Ask me about Frontend designing, Object Oriented concepts, Wordpress.
+💬 Ask me about Frontend designing, Object Oriented concepts, data structures and algorithms.
 
 📫 How to reach me: sandalysingh538@gmail.com  
 
