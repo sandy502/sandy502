@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python Programming language and data structures.
 
-👯 I’m looking to collaborate on projects related to python development, web development, java, reactjs etc.
+👯 I’m looking to collaborate on projects related to python development, web development etc.
 
 💬 Ask me about Frontend designing, Object Oriented concepts, data structures and algorithms.
 
