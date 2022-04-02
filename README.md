@@ -14,7 +14,7 @@
 
 
 
-<p>  <img align="right" src="code.gif" alt="" width="400" height="400"" /> </p> 
+<!-- <p>  <img align="right" src="code.gif" alt="" width="400" height="400"" /> </p>  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy502&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
