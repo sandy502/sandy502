@@ -118,7 +118,7 @@
             src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
             height="40" /> </a> </p> -->
                         
-<h3 align="center">"Set your heart upon work but never on it's reward."</h3>                        
+<h3 align="center">"Set your heart upon your work but never on it's reward."</h3>                        
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy502&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" />
    <img src="https://github-readme-stats.vercel.app/api?username=sandy502&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /></p>
 
