@@ -44,9 +44,7 @@
 
 - Talk to me about:
 
-- Data Science and Machine Learning algorithms, Statistics, Data Analysis with Python.
-
-- Front-end development using HTML, Javascript, CSS, Bootstrap, React JS, UI-UX Designing.
+- Front-end development using HTML, Javascript, CSS, Bootstrap, UI-UX Designing.
 
 - Making for Relational Database Management Systems.
 
