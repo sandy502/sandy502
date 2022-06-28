@@ -120,8 +120,7 @@
                         
 <h3 align="center">"Set your heart upon your work but never on it's reward."</h3>                        
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy502&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="" />
-   <img src="https://github-readme-stats.vercel.app/api?username=sandy502&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /></p>
-
+   <img src="https://github-readme-stats.vercel.app/api?username=sandy502&show_icons=true&theme=tokyonight" /></p>
 
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
