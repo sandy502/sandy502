@@ -48,7 +48,7 @@
 
 - Making for Relational Database Management Systems.
 
-- Solving Data structure and algorithm questions in C++ and Python.
+- Solving Data structure and algorithm questions in Java and Python.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
