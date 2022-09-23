@@ -15,7 +15,7 @@
 📫 How to reach me: sandalysingh538@gmail.com   -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Sandaly Singh</h1>
-<h3 align="center">A python developer and a machine learning enthusiast.</h3>
+<h3 align="center">An ingenious developer and content writer.</h3>
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=sandy502&theme=tokyonight"
@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **Python Programming language** and **Machine Learning**.
 
-- 💬 Ask me about **Data analysis, Frontend designing, Object Oriented concepts, data structures and algorithms.**
+- 💬 Ask me about **Data analysis, Frontend designing, Object Oriented concepts, basics of data structures and algorithms.**
 
 - 😄 Pronouns: **She/her**
 
