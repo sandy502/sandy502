@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on my portfolio website.
 
-🌱 I’m currently learning Python Programming language and data structures.
+🌱 I’m currently learning Java Backend Development with spring-boot and related technologies.
 
-👯 I’m looking to collaborate on projects related to python development, web development etc.
+👯 I’m looking to collaborate on projects related to Java backend development, web development etc.
 
 💬 Ask me about Frontend designing, Object Oriented concepts, data structures and algorithms.
 
