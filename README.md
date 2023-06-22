@@ -31,7 +31,7 @@
             alt="" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python Programming language** and **Machine Learning**.
+- 🌱 I’m currently learning **Java Backend Development** and **Data Science**.
 
 - 💬 Ask me about **Data analysis, Frontend designing, Object Oriented concepts, basics of data structures and algorithms.**
 
